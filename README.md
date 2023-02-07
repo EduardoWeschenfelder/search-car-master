@@ -1,0 +1,2 @@
+# search-car-master
+Este projeto foi desenvolvido sua parte inicial em duas tardes focadas, acabei não conseguindo desenvolver o projeto na semana passada, me esforcei pra entregar o maximo, seique esta longe do ideal, mas pretendo terminar esse projeto nesta semana, obs só consigo neste momento desenvolver a tarde pois estou usando a noite para trabalhar como garçom devido a necessidade financeira deste momento.
